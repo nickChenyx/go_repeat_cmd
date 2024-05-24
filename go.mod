@@ -1,3 +1,3 @@
-module github.com/kazhuravlev/repeat
+module github.com/nickChenyx/go_repeat_cmd
 
 go 1.18
